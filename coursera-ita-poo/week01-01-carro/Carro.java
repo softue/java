@@ -16,7 +16,7 @@
     - Quando nenhum construtor é definido, 
     um vazio e sem parâmetros é criado para você.
         Carro c1 = new Carro();
-    - Podemos ter mais de um construtor com tipos de parâmetros diferentes
+    - Podemos ter mais de um construtor com tipos de parâmetros diferentes (sobrecarga)
         public class Carro {
             Carro (int potencia) {...}
             Carro (String marca) {...}
